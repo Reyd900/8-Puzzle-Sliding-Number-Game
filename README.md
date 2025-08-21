@@ -13,12 +13,21 @@ The goal is to arrange the numbered tiles in order (1–8) with the empty space 
 
 ---
 
-## 🎮 Controls
+🎮 Controls
 - **Arrow keys / WASD** → Move tiles into the empty spot  
 - Keep rearranging until you solve the puzzle  
 
 ---
 
-## 📦 Requirements
-- Language/framework you used C++ and C  
+📦 Requirements
+- Language/framework you used C++ and C
+
+🧩Libraries Used
+
+- Glfw: Creates OpenGL window
+- Glad: Loads OpenGL functions
+- SFML: Plays audio files
+- stb: Loads image files
+- ImGUI: Adds Buttons to glfw window
+- GLM: Serves OpenGL mathematics
 
